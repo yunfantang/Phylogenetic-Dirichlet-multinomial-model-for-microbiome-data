@@ -10,12 +10,17 @@ ftp://ftp.microbio.me/AmericanGut/ag-May-16-2016/04-meta/ag-cleaned.txt
 Program descriptions:
 
 TailBound.R: Implements the union bound algorithm (Section 4.2)
+
 AmericanGut.R: Two-sample testing (Section 5.1).
+
 LRT.R: Likelihood ratio test for DM vs PhyloDM (Section 5.2). 
+
 ROC.R: Produces ROC curve and power curve by simulation (Section 5.3).
 
 Read_hdf5biom.R: A publically available script to read sparse biom files.
+
 SingleNodeOptimize.R: Source file for LRT.R.
+
 TwoSampleNode.R: Source file for AmericanGut.R, LRT.R and ROC.R.
 
 
