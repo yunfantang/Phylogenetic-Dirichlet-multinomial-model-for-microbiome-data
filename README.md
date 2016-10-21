@@ -9,7 +9,7 @@ ftp://ftp.microbio.me/AmericanGut/ag-May-16-2016/04-meta/ag-cleaned.txt
 
 Program descriptions:
 
-TailBound.R: Implements the union bound algorithm (Section 4.2)
+TailBound.R: Implements the union bound algorithm (Section 4.2). Also contains script to compare union bound with Monte Carlo simulations (Section 4.3).
 
 AmericanGut.R: Two-sample testing (Section 5.1).
 
